@@ -7,6 +7,6 @@ Currently, I'm pursuing a Master's degree in Computer Science at the Georgia Ins
 
 My unique blend of experiences in both structural engineering and software development equips me with a diverse skill set to tackle complex challenges in today's ever-evolving tech landscape. I'm always excited to explore new opportunities and collaborate on innovative projects.
 
-- 📚 Currently learning: C#, React via Full Stack Open
+- 📚 Currently learning: C#
 - 💻 Current classes: High Performance Computer Architecture, Computer Networks
 - ✅ Completed classes: Graduate Introduction to Operating Systems, Intro to Information Security, Software Analysis and Testing
