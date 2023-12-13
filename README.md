@@ -9,5 +9,5 @@ My unique blend of experiences in both structural engineering and software devel
 
 - 📚 Currently learning: C#
 - 🛠️ Currently contributing to: https://github.com/ScottPlot/ScottPlot
-- 💻 Current classes: High Performance Computer Architecture, Computer Networks
-- ✅ Completed classes: Graduate Introduction to Operating Systems, Intro to Information Security, Software Analysis and Testing
+- 💻 Current classes: Advanced Operating Systems, Software Development Process
+- ✅ Completed classes: Graduate Introduction to Operating Systems, High Performance Computer Architecture, Computer Networks, Intro to Information Security, Software Analysis and Testing
