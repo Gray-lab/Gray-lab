@@ -7,7 +7,7 @@ Currently, I'm pursuing a Master's degree in Computer Science at the Georgia Ins
 
 My unique blend of experiences in both structural engineering and software development equips me with a diverse skill set to tackle complex challenges in today's ever-evolving tech landscape. I'm always excited to explore new opportunities and collaborate on innovative projects.
 
-- 📚 Currently learning: C#
+- 📚 Currently learning: C#, Fortran
 - 🛠️ Currently contributing to: https://github.com/ScottPlot/ScottPlot
 - 💻 Current classes: Advanced Operating Systems, Software Development Process
 - ✅ Completed classes: Graduate Introduction to Operating Systems, High Performance Computer Architecture, Computer Networks, Intro to Information Security, Software Analysis and Testing
